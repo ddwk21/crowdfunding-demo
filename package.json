@@ -1,7 +1,7 @@
 {
   "name": "crowd-funding",
   "version": "1.0.0",
-  "description": "",
+  "description": "In this mini-project, you will work with a group to build a full-stack crowdfunding app using Node.js, Express.js, Sequelize, Handlebars.js, and MVC architecture.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -25,5 +25,13 @@
     "eslint": "^7.12.1",
     "eslint-config-prettier": "^6.15.0",
     "prettier": "^2.1.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddwk21/crowdfunding-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ddwk21/crowdfunding-demo/issues"
+  },
+  "homepage": "https://github.com/ddwk21/crowdfunding-demo#readme"
 }
